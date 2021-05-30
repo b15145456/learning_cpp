@@ -12,5 +12,5 @@ int main()
     {
         cout << rand() % 50 << endl;
     }
-    
+
 }
