@@ -8,7 +8,7 @@ Sally::Sally(int a, int b)
     
 }
 
-void Sally::print(){
-    cout << "regular var is: " << regVar << endl;
-    cout << "const variabel is : " << constVar << endl;
-}
+// void Sally::print(){
+//     cout << "regular var is: " << regVar << endl;
+//     cout << "const variabel is : " << constVar << endl;
+// }
