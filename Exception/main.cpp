@@ -14,10 +14,10 @@
           if (num2 == 0)
           {
               /* code */
-              throw 0;
+              throw "777777777";
           }
           cout << num1/num2 << endl;
-     }catch(int x){
-         cout << "you cant divide by " << x << endl;
+     }catch(...){       // ... means all types
+         cout << "you cant divide by 0" << endl;
      }
  }
